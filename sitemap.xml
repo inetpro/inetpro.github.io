@@ -1,35 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://inetpro.github.io/2015/index.html</loc>
-  <lastmod>2015-03-05</lastmod>
+  <lastmod>2015-03-05T20:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/archive.html</loc>
-  <lastmod>2015-03-05</lastmod>
+  <lastmod>2017-08-05T19:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/blog/index.html</loc>
-  <lastmod>2015-03-05</lastmod>
+  <lastmod>2017-08-05T19:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/categories/index.html</loc>
-  <lastmod>2015-03-05</lastmod>
+  <lastmod>2017-08-05T19:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/index.html</loc>
-  <lastmod>2015-03-05</lastmod>
+  <lastmod>2017-08-05T19:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/how-to-use-nikola.html</loc>
-  <lastmod>2015-03-05</lastmod>
+  <lastmod>2015-03-05T20:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://inetpro.github.io/testing.html</loc>
+  <lastmod>2017-08-05T20:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/tips-and-tricks.html</loc>
-  <lastmod>2015-03-05</lastmod>
+  <lastmod>2017-08-05T19:54:00Z</lastmod>
  </url>
 </urlset>

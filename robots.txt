@@ -1,2 +1,4 @@
 Sitemap: http://inetpro.github.io/sitemapindex.xml
 
+User-Agent: *
+Host: inetpro.github.io
