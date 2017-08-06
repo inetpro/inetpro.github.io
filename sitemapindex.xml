@@ -7,34 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://inetpro.github.io/authors/inetpro.xml</loc>
-  <lastmod>2017-08-06T15:26:00Z</lastmod>
+  <lastmod>2017-08-06T15:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://inetpro.github.io/authors/somebodyelse.xml</loc>
-  <lastmod>2017-08-06T15:25:00Z</lastmod>
+  <lastmod>2017-08-06T15:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://inetpro.github.io/categories/blog.xml</loc>
-  <lastmod>2017-08-06T15:26:00Z</lastmod>
+  <lastmod>2017-08-06T15:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://inetpro.github.io/categories/something-else.xml</loc>
-  <lastmod>2017-08-06T15:25:00Z</lastmod>
+  <lastmod>2017-08-06T15:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://inetpro.github.io/categories/something.xml</loc>
-  <lastmod>2017-08-06T15:23:00Z</lastmod>
+  <lastmod>2017-08-06T15:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://inetpro.github.io/categories/test.xml</loc>
-  <lastmod>2017-08-06T15:25:00Z</lastmod>
+  <lastmod>2017-08-06T15:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://inetpro.github.io/rss.xml</loc>
-  <lastmod>2017-08-06T15:26:00Z</lastmod>
+  <lastmod>2017-08-06T15:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://inetpro.github.io/sitemap.xml</loc>
-  <lastmod>2017-08-06T15:26:00Z</lastmod>
+  <lastmod>2017-08-06T15:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>
