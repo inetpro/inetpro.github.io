@@ -118,50 +118,30 @@ article.post-micro {
 }
 
 .metadata p:before,
-.postlist .listdate:after,
-.translationslist p:before {
+.postlist .listdate:after {
     content: " — ";
 }
 
-.metadata p:first-of-type:before,
-.translationslist p:first-of-type:before {
+.metadata p:first-of-type:before {
     content: "";
 }
 
-.metadata p,
-.translationslist p {
+.metadata p {
     display: inline;
 }
 
-.posttranslations h3, .translationslist h3 {
+.posttranslations h3 {
     display: inline;
     font-size: 1em;
     font-weight: bold;
 }
 
-.posttranslations h3:last-child, .translationslist h3:last-child {
+.posttranslations h3:last-child {
     display: none;
 }
 
 .entry-content {
     margin-top: 1em;
-}
-
-.navbar-brand {
-    padding: 0 15px;
-}
-
-.navbar-brand #blog-title {
-    padding: 15px 0;
-    display: inline-block;
-}
-
-.navbar-brand #logo {
-    max-width: 100%;
-}
-
-.navbar-brand>img {
-    display: inline;
 }
 
 .row {
@@ -215,4 +195,14 @@ article.post-micro {
     .navbar {
         display: none;
     }
+}
+
+pre {
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    padding: 0.75rem;
+}
+
+.postindexpager {
+    padding-bottom: 1rem;
 }
