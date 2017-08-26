@@ -7,110 +7,122 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://inetpro.github.io/2017/index.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/about/index.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/archive.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/authors/index.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/authors/inetpro.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/authors/somebodyelse.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/blog/index-1.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/blog/index.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/categories/blog.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/categories/index.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/categories/something-else.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/categories/something.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/categories/test.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://inetpro.github.io/galleries/index.html</loc>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/index.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://inetpro.github.io/listings/index.html</loc>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/aliquam-lobortis-molestie-faucibus.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/donec-nec-mauris-quam.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/in-orci-ante-pellentesque-in-maximus-sit-amet-tristique-et-nisi.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://inetpro.github.io/posts/make-a-multi-resolution-faviconico-from-a-source-image-using-imagemagick.html</loc>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/nam-eget-dictum-arcu-egestas-scelerisque-enim.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/nullam-lectus-augue-gravida-sed-ex-mattis-placerat-aliquam-risus.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/post-07.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/post-08.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/post-09.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/post-10.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/post-11.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/posts/vivamus-lacinia-finibus-dui.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/testing.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://inetpro.github.io/tips-and-tricks.html</loc>
-  <lastmod>2017-08-06T18:23:00Z</lastmod>
+  <lastmod>2017-08-26T12:43:00Z</lastmod>
  </url>
 </urlset>
